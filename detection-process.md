@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
     A[Début Scan] --> B{Vérifier Processus}
     B -->|Suspect trouvé| C[Analyser Connexions]
@@ -29,3 +30,4 @@ flowchart TB
     end
     
     P --> Q[Rapport Final]
+```
