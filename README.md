@@ -89,19 +89,6 @@ Le programme génère un rapport détaillé contenant :
 - Prenez un snapshot avant utilisation
 - Ne désactivez pas les protections sur votre machine principale
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! Pour contribuer :
-1. Forkez le projet
-2. Créez une branche pour votre fonctionnalité
-3. Commitez vos changements
-4. Poussez vers la branche
-5. Ouvrez une Pull Request
-
-## 📜 Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
 ## ✍️ Auteur
 
 - Votre Nom - [Votre GitHub](https://github.com/dgthegeek)
@@ -111,9 +98,3 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 - [Documentation Windows Registry](https://docs.microsoft.com/en-us/windows/win32/sysinfo/registry)
 - [Python psutil Documentation](https://psutil.readthedocs.io/)
 - [Windows Defender Documentation](https://docs.microsoft.com/en-us/windows/security/threat-protection/)
-
-## 🙏 Remerciements
-
-- Microsoft pour la documentation Windows
-- La communauté Python pour les outils et bibliothèques
-- La communauté cybersécurité pour le partage de connaissances
